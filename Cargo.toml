@@ -5,7 +5,7 @@ authors = ["Nukr <nukrs.w@gmail.com>"]
 edition = "2018"
 
 [[bin]]
-name = "hellorust"
+name = "hello_rust"
 path = "src/main.rs"
 
 [dependencies]
